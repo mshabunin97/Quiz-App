@@ -13,7 +13,7 @@ Quiz App - это простое и интерактивное веб-прило
 
 ## Установка и запуск проекта
 
-1. 1. Склонировать проект на ваш компьютер с [Github](https://github.com/mshabunin97/Quiz-App) с помощью команды:
+1. Склонировать проект на ваш компьютер с [Github](https://github.com/mshabunin97/Quiz-App) с помощью команды:
 ```
 git clone https://github.com/mshabunin97/Quiz-App.git
 ```
