@@ -2,35 +2,35 @@
 
 ![Quiz](img/Quiz-app.png)
 
-Quiz App - это простое и интерактивное веб-приложение, которое позволяет вам играть в увлекательную викторину с разнообразными вопросами. Проходите через серию вопросов, выбирайте правильные ответы и набирайте очки. 
+Quiz App is a simple and interactive web application that allows you to play an engaging quiz with a variety of questions. Go through a series of questions, select the correct answers, and earn points.
 
-## Особенности 
-* Играйте в увлекательную викторину с разнообразными вопросами из различных областей знаний.
-* Выбирайте правильные варианты ответов и набирайте очки для повышения своего счета.
-* Получайте мгновенную обратную связь о правильности выбранных ответов.
-* Отслеживайте свой прогресс и результаты, а также сравнивайте их с другими игроками.
-* Простой и интуитивно понятный пользовательский интерфейс для удобного пользования.
+## Features 
+* Play an engaging quiz.
+* Choose the correct answer options and score points to increase your score.
+* Receive instant feedback on the correctness of selected answers.
+* Track your progress and results, and compare them with other players.
+* Simple and intuitive user interface for easy navigation.
 
-## Установка и запуск проекта
+## Installation and Project Setup
 
-1. Склонировать проект на ваш компьютер с [Github](https://github.com/mshabunin97/Quiz-App) с помощью команды:
+1. Clone the project to your computer from [Github](https://github.com/mshabunin97/Quiz-App) using the following command:
 ```
 git clone https://github.com/mshabunin97/Quiz-App.git
 ```
-2. Перейдите в папку проекта:
+2. Navigate to the project folder:
 ```
 cd quiz-app
 ```
-3. Откройте файл index.html в вашем любимом браузере или запустите локальный сервер для просмотра приложения.
+3. Open the index.html file in your favorite browser or start a local server to view the application.
 
-## Технологии
+## Technologies Used
 
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javaScript&logoColor=black)
 
 
-## Ссылки проекта
+## Project Links
 
-Ссылка на проект для просмотра - https://mshabunin97.github.io/Quiz-App/
+Link to the project for viewing - https://mshabunin97.github.io/Quiz-App/
 
